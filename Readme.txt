@@ -1,1 +1,1 @@
-https://loan-classification-project-gfcnfmvdyc79r6yg844dfk.streamlit.app/
+https://loanclassificationproject-4i9iud7xgaynt6mzs2rw7p.streamlit.app/
