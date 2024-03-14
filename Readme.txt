@@ -1,9 +1,7 @@
 1- Overview:
-
 The Loan Approval Predictor project aims to automate the loan eligibility process for Dream Housing Finance by leveraging data science techniques and machine learning models. The project consists of exploratory data analysis (EDA), feature engineering, model training, and deployment of an interactive Streamlit application.
 
 2- Exploratory Data Analysis (EDA):
-
 - Conducted a comprehensive analysis of the provided dataset (train_ctrUa4K.csv).
 - Addressed issues such as missing values, duplicates and outliers.
 - Explored relationships between demographic and socioeconomic factors and loan approval rates.
